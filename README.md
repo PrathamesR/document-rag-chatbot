@@ -32,7 +32,7 @@ Create a `.env` file in the root directory and add the following line:
 GOOGLE_API_KEY=your-api-key-here
 ```
 
-Create your own gemini api key here
+Create your own gemini api key here: https://aistudio.google.com/app/apikey
 
 ### 3. Run the app
 
