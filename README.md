@@ -13,7 +13,7 @@ An intelligent Streamlit-based chatbot that supports file uploads (PDFs, Excel),
 - 🧩 RAG-based context injection for conversational relevance
 - 📎 Attachment preview and contextual memory per session
 - 🔐 API Key securely loaded from `.env` file
-
+- 🤖 Uses `gemini-2.0-flash` to generate responses quickly
 ---
 
 ## 🚀 Getting Started
@@ -32,7 +32,7 @@ Create a `.env` file in the root directory and add the following line:
 GOOGLE_API_KEY=your-api-key-here
 ```
 
-Create your own gemini api key here : https://aistudio.google.com/app/apikey
+Create your own gemini api key here
 
 ### 3. Run the app
 
